@@ -1,2 +1,2 @@
-# IS-laboratorinis-1
-Perceptron training
+# Perceptron training
+
